@@ -1,6 +1,6 @@
 # Understand-your-audience
 
-### [Site link](http://example.com/ "Site link")
+### [Site link](Understand-your-audience "Site link")
 
 Layout supports mobile (up-to-1400) and desktop (up-to-1400) versions
 
