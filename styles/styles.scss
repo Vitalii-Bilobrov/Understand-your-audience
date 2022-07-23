@@ -99,10 +99,6 @@
   height: 195px;
   margin: 22px 74px 22px 74px;
 }
-.picture-field__action {
-  box-shadow: 0px 13px 18px rgba(0, 0, 0, 0.15),
-    0px 11px 55px rgba(0, 0, 0, 0.07);
-}
 .image3 {
   width: 160px;
   height: 195px;
@@ -116,6 +112,8 @@
 .picture-field:hover {
   background-color: #3141c5;
   color: white;
+  box-shadow: 0px 13px 18px rgba(0, 0, 0, 0.15),
+    0px 11px 55px rgba(0, 0, 0, 0.07);
 }
 
 @import "breakpoints.scss";
