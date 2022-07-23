@@ -56,19 +56,23 @@
   }
   .first-field {
     margin: 0 30px 110px 130px;
-    //display: flex;
-    //flex-direction: column;
   }
   .image1 {
-    margin: 22px 62px 83px 62px;
+    margin: 22px 62px 22px 62px;
   }
   .picture-field__action {
     margin: 0 31px 110px 0;
+  }
+  .image2 {
+    margin: 22px 62px 22px 62px;
   }
   .third-field {
     margin: 0 30px 110px 0;
   }
   .foth-field {
-    margin: 0 131px 110px 0;
+    margin: 0 131px 0 0;
+  }
+  .block{
+    display: flex;
   }
 }
