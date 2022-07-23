@@ -1,6 +1,6 @@
 # Understand-your-audience
 
-### [Site link](Understand-your-audience "Site link")
+### [Site link](https://vitalii-bilobrov.github.io/Understand-your-audience/ "Site link")
 
 Layout supports mobile (up-to-1400) and desktop (up-to-1400) versions
 
